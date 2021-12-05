@@ -11,5 +11,8 @@ public class Hello {
         System.out.println("hello master");
         System.out.println("hello master push");
          System.out.println("hello master pull");
+         System.out.println("hello master pull");
+         System.out.println("hello master pull");
+         System.out.println("hello master pull");
     }
 }
